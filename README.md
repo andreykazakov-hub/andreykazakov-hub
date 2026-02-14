@@ -9,15 +9,15 @@ I specialize in transforming raw datasets into business insights and executive-l
 # Portfolio
 - **HR Analytics Exploratory Dashboard**
 
-<img width="500" height="300" alt="hr-summary-dashboard" src="https://github.com/user-attachments/assets/31853cb1-0347-4b86-a1d3-210f7b44ba72" />
+[<img width="500" height="300" alt="hr-summary-dashboard" src="https://github.com/user-attachments/assets/31853cb1-0347-4b86-a1d3-210f7b44ba72" />](https://github.com/andreykazakov-hub/hr-dashboard-tableau-project)
 
 - **Bugatti Market Analysis**
 
-<img width="300" height="500" alt="bugatti-dashboard-image" src="https://github.com/user-attachments/assets/5e48a70c-484d-4ebb-9d0f-f4391ff0a945" />
+[<img width="300" height="500" alt="bugatti-dashboard-image" src="https://github.com/user-attachments/assets/5e48a70c-484d-4ebb-9d0f-f4391ff0a945" />](https://github.com/andreykazakov-hub/bugatti-market-analysis)
 
 - **Coffee Shop Profitability Analysis**
 
-<img width="500" height="300" alt="coffee-excel-dashboard" src="https://github.com/user-attachments/assets/b5df815a-e22c-4c26-ac4d-eeb2cf834353" />
+[<img width="500" height="300" alt="coffee-excel-dashboard" src="https://github.com/user-attachments/assets/b5df815a-e22c-4c26-ac4d-eeb2cf834353" />](https://github.com/andreykazakov-hub/coffee-business-analysis)
 
 
 
