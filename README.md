@@ -4,7 +4,8 @@ __Data Analyst with a strong focus on SQL, Excel, and Tableau.
 I specialize in transforming raw datasets into business insights and executive-level dashboards.__
 
 <picture>
-<img width="48" height="48" alt="sql-removebg-preview" src="https://github.com/user-attachments/assets/c71d976a-7808-409e-a089-efd49977c726" />  <img width="48" height="48" alt="tableau-software-removebg-preview" src="https://github.com/user-attachments/assets/2ca3a3bf-676b-4ff3-9b93-6db9d99d0bac" /> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48"/>
+<img width="48" height="48" alt="sql-removebg-preview" src="https://github.com/user-attachments/assets/c71d976a-7808-409e-a089-efd49977c726" />  <img width="48" height="48" alt="tableau-software-removebg-preview" src="https://github.com/user-attachments/assets/2ca3a3bf-676b-4ff3-9b93-6db9d99d0bac" /> <img width="50" height="50" alt="ChatGPT Image Feb 14, 2026, 01_14_00 AM" src="https://github.com/user-attachments/assets/4e5e0d8b-d3ad-410c-9ee7-320f7aa0a037" />
+
 </picture>
 
 # Portfolio
