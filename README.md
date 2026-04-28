@@ -23,19 +23,17 @@ I specialize in transforming raw datasets into business insights and executive-l
 
 *I built a political media spending intelligence dashboard that analyzes independent expenditures across election cycles. I cleaned and normalized raw FEC data using SQL, performed quality control checks, and developed executive-level Tableau reports to identify spending strategies across markets, candidates, and advertisers.*
 
-- [**Bugatti Market Analysis**](https://github.com/andreykazakov-hub/bugatti-market-analysis)
-
-[<img width="150" height="250" alt="bugatti-dashboard-image" src="https://github.com/user-attachments/assets/5e48a70c-484d-4ebb-9d0f-f4391ff0a945" />](https://github.com/andreykazakov-hub/bugatti-market-analysis)
-
- *An Analytical Exploration of how Bugatti defines the upper limits of price and performance.*
-
 - [**Coffee Shop Profitability Analysis**](https://github.com/andreykazakov-hub/coffee-business-analysis)
 
 [<img width="250" height="150" alt="coffee-excel-dashboard" src="https://github.com/user-attachments/assets/b5df815a-e22c-4c26-ac4d-eeb2cf834353" />](https://github.com/andreykazakov-hub/coffee-business-analysis)
 
 *A data-driven deep dive into a coffee company that uncovers why revenue grows while profit and customer retention stay flat — and exactly how to fix it.*
 
+- [**Bugatti Market Analysis**](https://github.com/andreykazakov-hub/bugatti-market-analysis)
 
+[<img width="150" height="250" alt="bugatti-dashboard-image" src="https://github.com/user-attachments/assets/5e48a70c-484d-4ebb-9d0f-f4391ff0a945" />](https://github.com/andreykazakov-hub/bugatti-market-analysis)
+
+ *An Analytical Exploration of how Bugatti defines the upper limits of price and performance.*
 
 
 
